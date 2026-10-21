@@ -1,0 +1,4 @@
+interface:
+  display_name: "影视人物妆造方案"
+  short_description: "从剧本拆分人物与故事日，统一服装套数，输出妆造PPT和逐套贴图Excel"
+  default_prompt: "使用 $film-character-styling，根据剧本、人物小传和美术资料制作人物妆造方案，输出场次与套数一致的PPT和逐套图片占位Excel。"
